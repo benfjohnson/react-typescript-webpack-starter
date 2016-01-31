@@ -1,0 +1,1 @@
+This is a basic starter kit which includes React, Typescript and Webpack. Run npm install to get latest files, and then webpack to build!
